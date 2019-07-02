@@ -2,7 +2,7 @@
 
 In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
 
-  * Array creation routines (DONE)
+  * [Array creation routines](https://github.com/johnypark/numpy_exercises/blob/master/Array_creation_routines.ipynb)
   * Array manipulation routines (DONE)
   * String operations (DONE)
   * Numpy-specific help functions (DONE)
